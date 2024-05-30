@@ -21,7 +21,7 @@ pip install numpy pandas scikit-learn
 ## Usage
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/chronic-kidney-disease-prediction.git
+git clone (https://github.com/8778758201/Chronic-Kidney-Disease-Prediction.git)
 ```
 
 2. Navigate to the repository directory:
